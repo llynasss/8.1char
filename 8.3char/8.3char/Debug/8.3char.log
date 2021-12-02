@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Користува\source\repos\ап\8.3char\8.3char\Source.cpp(24,47): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Користува\source\repos\ап\8.3char\8.3char\Source.cpp(47,6): warning C4101: 'p': unreferenced local variable
+  8.3char.vcxproj -> C:\Users\Користува\source\repos\ап\8.3char\Debug\8.3char.exe
